@@ -50,7 +50,7 @@ Required `development` dependency declaration in `component.json` for the above 
 
     "development": {
       "hugojosefson/uncomponent-wrapper": "0.0.2",
-      "hugojosefson/update-bower-from-component": "0.0.1"
+      "hugojosefson/update-bower-from-component": "0.0.2"
     }
 
 ## API
