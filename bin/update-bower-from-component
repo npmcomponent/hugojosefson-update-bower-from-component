@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var wrap = require("../index.js");
+wrap.apply(wrap, process.argv.splice(2));

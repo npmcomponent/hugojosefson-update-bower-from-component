@@ -1,0 +1,17 @@
+{
+  "name": "update-bower-from-component",
+  "repo": "hugojosefson/update-bower-from-component",
+  "description": "Updates bower.json based on name, repo and version in component.json.",
+  "version": "0.0.1.snapshot",
+  "keywords": ["component", "bower", "json", "version"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "files": [
+    "bin/update-bower-from-component"
+  ]
+}
