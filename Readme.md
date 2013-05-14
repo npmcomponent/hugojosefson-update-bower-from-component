@@ -49,7 +49,7 @@ This is from [image-url-for-angular](https://github.com/hugojosefson/image-url-f
 Required `development` dependency declaration in `component.json` for the above to work:
 
     "development": {
-      "hugojosefson/uncomponent-wrapper": "0.0.2",
+      "hugojosefson/uncomponent-wrapper": "0.0.3",
       "hugojosefson/update-bower-from-component": "0.0.2"
     }
 
