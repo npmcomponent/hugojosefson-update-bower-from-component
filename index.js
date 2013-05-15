@@ -23,7 +23,7 @@ function updateBowerJsonFromComponentJson() {
 
   bower.version = component.version;
   bower.name = component.repo.replace("/", "-");
-  bower.main = component.name + ".js";
+  bower.main = component.main;
 
   if (!fs.existsSync(bower.main)) {
     throw new Error(bower.main + " does not exist!");

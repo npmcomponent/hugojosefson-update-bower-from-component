@@ -1,7 +1,7 @@
 {
   "name": "update-bower-from-component",
   "repo": "hugojosefson/update-bower-from-component",
-  "description": "Updates bower.json based on name, repo and version in component.json.",
+  "description": "Updates bower.json based on repo, version and main in component.json.",
   "version": "0.1.0.snapshot",
   "keywords": ["component", "bower", "json", "version"],
   "dependencies": {},
