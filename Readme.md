@@ -36,7 +36,7 @@ This is from [image-url-for-angular](https://github.com/hugojosefson/image-url-f
       @node components/hugojosefson-update-bower-from-component/bin/update-bower-from-component
 
     clean:
-      rm -fr build components index.js
+      rm -fr build components
 
     .PHONY: clean components build
 
