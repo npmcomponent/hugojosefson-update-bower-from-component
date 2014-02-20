@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [hugojosefson/update-bower-from-component](http://github.com/hugojosefson/update-bower-from-component). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/hugojosefson-update-bower-from-component`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 
 # update-bower-from-component
 

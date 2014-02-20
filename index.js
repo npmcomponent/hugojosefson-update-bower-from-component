@@ -1,4 +1,4 @@
-var fs = require("fs");
+// commented out by npm-component: var fs = require("fs");
 
 module.exports = updateBowerJsonFromComponentJson;
 
